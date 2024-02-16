@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+title: VECM Ibovespa
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: M. V. L.
+    family-names: Pereira
+    email: marcos.vinicius@ufsj.edu.br
+    affiliation: UFSJ
+    orcid: 'https://orcid.org/0000-0002-0250-8743'
+  - orcid: 'https://orcid.org/0000-0003-3884-2177'
+    affiliation: UFSJ
+    email: leolca@ufsj.edu.br
+    name-particle: de
+    family-names: Araújo
+    given-names: L. C.
+  - given-names: R. A.
+    family-names: Iquiapaza
+    email: riquiapaza@face.ufmg.br
+    affiliation: UFMG
+    orcid: 'https://orcid.org/0000-0003-1657-2823'
+repository-code: 'https://github.com/mvlp/VECM-Ibovespa'
+preferred-citation:
+  type: article
+  authors:
+    - given-names: M. V. L.
+      family-names: Pereira
+      email: marcos.vinicius@ufsj.edu.br
+      affiliation: UFSJ
+      orcid: 'https://orcid.org/0000-0002-0250-8743'
+    - orcid: 'https://orcid.org/0000-0003-3884-2177'
+      affiliation: UFSJ
+      email: leolca@ufsj.edu.br
+      name-particle: de
+      family-names: Araújo
+      given-names: L. C.
+    - given-names: R. A.
+      family-names: Iquiapaza
+      email: riquiapaza@face.ufmg.br
+      affiliation: UFMG
+      orcid: 'https://orcid.org/0000-0003-1657-2823'
+  doi: "10.12660/rbfin.v18n2.2020.79162"
+  journal: "Brazilian Review of Finance"
+  month: 6
+  start: 82 # First page number
+  end:  121 # Last page number
+  title: "Cointegration and predictability of VECM approaches for Ibovespa"
+  issue: 2
+  volume: 18
+  year: 2020
+  abstract: >-
+    The present research compares multivariate models applied
+    to the IBOVESPA time series analysis. Macroeconomic
+    variables, commodities and market indices are regressors
+    suggested by the literature. The chosen approach uses a
+    vector error correction model (VECM) alongside unit root
+    and cointegration tests, robust under heteroskedasticity.
+    The impact of national and international economic
+    instability was controlled. To accomplish this, recessive
+    cycles, in Brazil or in the United States, and the
+    Brazilian electoral period were taken into account. In
+    general, the evaluated models failed to meet the
+    estimation’s assumptions, have low explanatory power and
+    do not present significant relationship between IBOVESPA
+    and dependent variables. However, evidence indicates that
+    long-term relationships could exist, although this may not
+    imply accuracy in short-term predictions.
+  keywords:
+    - Cointegration
+    - VECM
+    - Granger causality
+    - IBOVESPA  
+
