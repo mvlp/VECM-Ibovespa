@@ -1,4 +1,4 @@
-[![RBFin](https://zenodo.org/badge/DOI/10.12660/rbfin.v18n2.2020.79162.svg)](https://doi.org/10.12660/rbfin.v18n2.2020.79162)
+[![DOI](https://zenodo.org/badge/DOI/10.12660/rbfin.v18n2.2020.79162.svg)](https://doi.org/10.12660/rbfin.v18n2.2020.79162)
 
 # VECM-Ibovespa
 Este repositório contém o código fonte utilizado para replicar os resultados do artigo científico "Cointegração e previsibilidade de abordagens VECM para o Ibovespa". O código foi desenvolvido em R e inclui scripts para análise de dados, estatísticas e visualizações.
