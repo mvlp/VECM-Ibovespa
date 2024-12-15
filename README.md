@@ -29,7 +29,7 @@ The present research compares multivariate models applied to the IBOVESPA time s
 
 - **[Leonardo de Araújo](http://lattes.cnpq.br/9986835732512415)**  
   - Afiliado ao [DTECH/CAP/UFSJ](https://ufsj.edu.br/dtech/corpo_docente.php)  
-  - Homepage: https://sites.google.com/site/leolca/home
+  - Homepage: https://sites.google.com/site/leolca
   - Doutor em Engenharia Elétrica
 
 - **[Robert Iquiapaza](http://lattes.cnpq.br/4502340100367919)**  
